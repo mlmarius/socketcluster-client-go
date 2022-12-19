@@ -7,6 +7,8 @@ github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0U
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/mlmarius/gowebsocket v0.0.0-20221218203656-420a54cd90f1 h1:BmE2XqBTZWYDbdPzeHRFwyWXWE+CrvzDeqEPpu7svP4=
 github.com/mlmarius/gowebsocket v0.0.0-20221218203656-420a54cd90f1/go.mod h1:jqYgccL5kIvGz4GJaWK6KL82uV6gyYlERl9mfpgQsOg=
+github.com/mlmarius/gowebsocket v0.0.0-20221218214028-333fb9b4710c h1:25oR6z4vE0K8jbVxmzSW1vLpov7WRhlRbHgBDUEtdi4=
+github.com/mlmarius/gowebsocket v0.0.0-20221218214028-333fb9b4710c/go.mod h1:ETqpspgiUnH9AaDzeO3IgKsjIhAiAwjTsZY53NX88Zk=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rgamba/evtwebsocket v0.0.0-20160725170122-f226ee483c6c h1:y8c0hM25dH+CVTuDul35cmsx3zQUDI8yfUnxh2ftLDQ=
