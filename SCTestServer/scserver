@@ -6,7 +6,7 @@ if test "$#" -ne 1; then
 fi
 
 FOLDER="sc-testserver"
-URL="https://github.com/sacOO7/sc-testserver"
+URL="https://github.com/mlmarius/sc-testserver"
 
 if [ ! -d "$FOLDER" ] ; then
     git clone $URL $FOLDER

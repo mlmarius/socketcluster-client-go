@@ -17,6 +17,10 @@ type Channel struct {
 	Data    interface{} `json:"data,omitempty"`
 }
 
+type Message struct {
+	Message string `json:"message"`
+}
+
 func GetEmitEventObject(eventname string, data interface{}, messageId int) EmitEvent {
 	return EmitEvent{
 		Event: eventname,

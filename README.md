@@ -14,7 +14,7 @@ This client provides following functionality
 To install use
 
 ```markdown
-    go get github.com/sacOO7/socketcluster-client-go/scclient
+    go get github.com/mlmarius/socketcluster-client-go/scclient
 ```
 
 Description
@@ -36,7 +36,7 @@ Different functions are given as an argument to register listeners
         package main
         
         import (
-        	"github.com/sacOO7/socketcluster-client-go/scclient"
+        	"github.com/mlmarius/socketcluster-client-go/scclient"
         	"text/scanner"
         	"os"
         	"fmt"
